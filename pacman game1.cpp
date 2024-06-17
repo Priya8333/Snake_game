@@ -129,7 +129,7 @@ int main() {
     	Draw();
     	Input();
     	Logic();
-    	Sleep(200); //sleep(100);
+    	Sleep(300); //sleep(100);
 	}
 	return 0;
 }
